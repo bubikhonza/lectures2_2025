@@ -1,6 +1,6 @@
-def greetings():
+def greetings_user():
     print("hello world!")
-    print("NEW CHANGEs")
+    print("OLD CHANGEs")
     print("blablabalba")
 
 greetings()
