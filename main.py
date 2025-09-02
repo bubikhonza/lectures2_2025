@@ -1,4 +1,4 @@
-def greetings_user():
+def greetings():
     print("hello world!")
     print("OLD CHANGEs")
     print("blablabalba")
